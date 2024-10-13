@@ -8,7 +8,7 @@ The Gas Utility Service is a web application designed to streamline the process 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 - [Python](https://www.python.org/downloads/) (version 3.10 or above)
-- [Django]
+- [Django](https://www.djangoproject.com/download/)
 ## Installation
 Follow these steps to set up the project:
 
@@ -45,10 +45,13 @@ Follow these steps to set up the project:
 
 5. **Apply migrations**:
    ```bash
+   python manage.py makemigrations
+   ```
+   ```bash
    python manage.py migrate
    ```
 
-6. **Create a superuser** (optional, for admin access):
+7. **Create a superuser** (optional, for admin access):
    ```bash
    python manage.py createsuperuser
    ```
@@ -63,15 +66,9 @@ You can access the application by navigating to \`http://127.0.0.1:8000/` in you
 ## Usage
 - Users can register and log in to submit service requests.
 - The application provides a tracking feature to monitor the status of submitted requests.
-- Admins can manage users and service requests through the admin panel.
+- Admins can manage users and service requests through the admin panel (http://127.0.0.1:8000/admin/).
 
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature/YourFeatureName\`).
-3. Make your changes and commit them (\`git commit -m 'Add some feature'\`).
-4. Push to the branch (\`git push origin feature/YourFeatureName\`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details." > README.md
+##Credentials
+ -Admin 
+    Username - hp
+    Password - hp
