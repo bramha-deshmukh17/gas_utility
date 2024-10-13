@@ -1,4 +1,4 @@
-echo "# Gas Utility Service
+### Gas Utility Service
 
 ## Overview
 The Gas Utility Service is a web application designed to streamline the process of service requests, account management, and tracking. Users can submit service requests, track their status, and manage their accounts efficiently.
