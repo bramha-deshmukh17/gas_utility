@@ -12,48 +12,53 @@ Before you begin, ensure you have the following installed:
 ## Installation
 Follow these steps to set up the project:
 
-1. **Clone the repository**:
+1. **Create a virtual environment**:
+   ```bash
+   python -m venv venv
+   ```
+   ```bash
+   cd venv
+   ```
+
+2. **Activate the virtual environment**:
+   - On Windows:
+     ```bash
+     Scripts\activate
+     ```
+   - On macOS/Linux:
+     ```bash
+     source bin/activate
+     ```
+
+3. **Install the required packages**:
+   ```bash
+   pip install django
+   ```
+
+4. **Clone the repository**:
    ```bash
    git clone https://github.com/bramha-deshmukh17/gas_utility.git
+   ```
+   ```bash
    cd gas_utility
    ```
 
-2. **Create a virtual environment**:
-   \`\`\`bash
-   python -m venv venv
-   \`\`\`
-
-3. **Activate the virtual environment**:
-   - On Windows:
-     \`\`\`bash
-     venv\\Scripts\\activate
-     \`\`\`
-   - On macOS/Linux:
-     \`\`\`bash
-     source venv/bin/activate
-     \`\`\`
-
-4. **Install the required packages**:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
-
 5. **Apply migrations**:
-   \`\`\`bash
+   ```bash
    python manage.py migrate
-   \`\`\`
+   ```
 
 6. **Create a superuser** (optional, for admin access):
-   \`\`\`bash
+   ```bash
    python manage.py createsuperuser
-   \`\`\`
+   ```
 
 ## Running the Application
 To start the development server, run:
-\`\`\`bash
+```bash
 python manage.py runserver
-\`\`\`
-You can access the application by navigating to \`http://127.0.0.1:8000/\` in your web browser.
+```
+You can access the application by navigating to \`http://127.0.0.1:8000/` in your web browser.
 
 ## Usage
 - Users can register and log in to submit service requests.
