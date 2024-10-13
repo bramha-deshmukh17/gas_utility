@@ -8,7 +8,7 @@ The Gas Utility Service is a web application designed to streamline the process 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 - [Python](https://www.python.org/downloads/) (version 3.10 or above)
-- [Django](https://www.djangoproject.com/download/)(latest)
+- [Django](https://www.djangoproject.com/download/) (latest)
 ## Installation
 Follow these steps to set up the project:
 
