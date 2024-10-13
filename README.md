@@ -72,3 +72,12 @@ You can access the application by navigating to [here](http://127.0.0.1:8000/) i
  -Admin 
     Username - hp
     Password - hp
+    
+##Screenshots
+![Screenshot 2024-10-13 140927](https://github.com/user-attachments/assets/040300a4-65e9-4ce1-9c25-cce34b63beaa)
+![Screenshot 2024-10-13 140933](https://github.com/user-attachments/assets/7f40de24-0f2b-470c-abb7-1697922a22b8)
+![Screenshot 2024-10-13 143025](https://github.com/user-attachments/assets/6f46e627-e6f6-4949-a115-72bde6be519f)
+![Screenshot 2024-10-13 141018](https://github.com/user-attachments/assets/28c58ce2-7e6e-416a-9261-032f0ca73177)
+![Screenshot 2024-10-13 141011](https://github.com/user-attachments/assets/09f26b28-1917-4257-b846-1640992a7119)
+![Screenshot 2024-10-13 141003](https://github.com/user-attachments/assets/f7f9b4a8-860b-4400-bbcc-79b49a5b1fe9)
+![Screenshot 2024-10-13 140941](https://github.com/user-attachments/assets/966e85e4-a90f-4ef1-983a-f0c0a41ebff5)
