@@ -69,7 +69,7 @@ You can access the application by navigating to [here](http://127.0.0.1:8000/) i
 - Admins can manage users and service requests through the admin panel [here](http://127.0.0.1:8000/admin/).
 
 ##Credentials
- - Admin 
+ - Admin
     Username - hp
     Password - hp
     
