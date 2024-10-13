@@ -61,12 +61,12 @@ To start the development server, run:
 ```bash
 python manage.py runserver
 ```
-You can access the application by navigating to \`http://127.0.0.1:8000/` in your web browser.
+You can access the application by navigating to [here](http://127.0.0.1:8000/) in your web browser.
 
 ## Usage
 - Users can register and log in to submit service requests.
 - The application provides a tracking feature to monitor the status of submitted requests.
-- Admins can manage users and service requests through the admin panel (http://127.0.0.1:8000/admin/).
+- Admins can manage users and service requests through the admin panel [here](http://127.0.0.1:8000/admin/).
 
 ##Credentials
  -Admin 
