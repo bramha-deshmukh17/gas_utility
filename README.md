@@ -94,7 +94,7 @@ You can access the application by navigating to [here](http://127.0.0.1:8000/) i
    ```
     
     
-##Screenshots
+## Screenshots
 - Index Page
 ![Screenshot 2024-10-13 140927](https://github.com/user-attachments/assets/040300a4-65e9-4ce1-9c25-cce34b63beaa)
 - Login Page
