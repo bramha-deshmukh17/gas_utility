@@ -1,9 +1,23 @@
 ### Gas Utility Service
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+  - [Create a virtual environment](#create-a-virtual-environment)
+  - [Activate the virtual environment](#activate-the-virtual-environment)
+  - [Install the required packages](#install-the-required-packages)
+  - [Clone the repository](#clone-the-repository)
+  - [Apply migrations](#apply-migrations)
+  - [Create a superuser](#create-a-superuser)
+- [Running the Application](#running-the-application)
+- [Usage](#usage)
+- [Credentials](#credentials)
+- [Screenshots](#screenshots)
+
 ## Overview
 The Gas Utility Service is a web application designed to streamline the process of service requests, account management, and tracking. Users can submit service requests, track their status, and manage their accounts efficiently.
-
-
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
